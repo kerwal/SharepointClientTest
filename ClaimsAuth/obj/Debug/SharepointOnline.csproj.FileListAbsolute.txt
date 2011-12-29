@@ -1,5 +1,0 @@
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\Kerwal.SharepointOnline.dll
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\Kerwal.SharepointOnline.pdb
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\Kerwal.SharepointOnline.dll
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\Kerwal.SharepointOnline.pdb

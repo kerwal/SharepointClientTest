@@ -1,5 +1,0 @@
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Release\ClaimsAuth.dll
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Release\ClaimsAuth.pdb
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Release\ResolveAssemblyReference.cache
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Release\ClaimsAuth.dll
-C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Release\ClaimsAuth.pdb
