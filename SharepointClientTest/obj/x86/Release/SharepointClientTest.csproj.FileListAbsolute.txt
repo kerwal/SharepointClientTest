@@ -1,0 +1,12 @@
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Release\SharepointClientTest.exe.config
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Release\SharepointClientTest.exe
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Release\SharepointClientTest.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Release\ClaimsAuth.dll
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Release\ClaimsAuth.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\SharepointClientTest.LoginProgress.resources
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\ResGen.read.1.tlog
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\ResGen.write.1.tlog
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\SharepointClientTest.exe
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\SharepointClientTest.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Release\SharepointClientTest.LoginForm.resources

@@ -1,0 +1,21 @@
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.exe.config
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.exe
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.exe
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.pdb
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\ClaimsAuth.dll
+C:\Users\Jeremy\documents\visual studio 2010\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\ClaimsAuth.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.exe.config
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.exe
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.LoginForm.resources
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.LoginProgress.resources
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\SharepointClientTest.StatusForm.resources
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.exe
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\SharepointClientTest.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\Kerwal.SharepointOnline.dll
+C:\Users\jeremy\Projects\SharepointClientTest\SharepointClientTest\bin\Debug\Kerwal.SharepointOnline.pdb
