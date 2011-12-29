@@ -95,9 +95,9 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClaimsAuth\SharepointOnline.csproj">
+    <ProjectReference Include="..\Kerwal.SharepointOnline\Kerwal.SharepointOnline.csproj">
       <Project>{2F63BAE9-2A4A-4027-9937-C1A63731B17D}</Project>
-      <Name>SharepointOnline</Name>
+      <Name>Kerwal.SharepointOnline</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

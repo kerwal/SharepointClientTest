@@ -1,0 +1,10 @@
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\ClaimsAuth.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\ClaimsAuth.pdb
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ClaimsAuth.dll
+C:\Users\Jeremy\Documents\Visual Studio 2010\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ClaimsAuth.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\ClaimsAuth.dll
+C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\bin\Debug\ClaimsAuth.pdb
+C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ClaimsAuth.dll
+C:\Users\jeremy\Projects\SharepointClientTest\ClaimsAuth\obj\Debug\ClaimsAuth.pdb
